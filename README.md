@@ -1,3 +1,3 @@
-Hello, I am Satyaki
+Hello!
 <br>
 This is my first directory
